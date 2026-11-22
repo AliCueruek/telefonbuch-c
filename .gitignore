@@ -1,0 +1,8 @@
+# Debug-Dateien von macOS
+*.dSYM/
+
+# Kompilierte Objektdateien
+*.o
+
+# Ausführbare Programmdatei
+/telefonbuch
